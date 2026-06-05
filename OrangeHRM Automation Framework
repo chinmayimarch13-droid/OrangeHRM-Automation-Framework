@@ -1,0 +1,31 @@
+OrangeHRM-Automation-Framework
+│
+├── tests
+│   ├── test_login.py
+│   ├── test_add_employee.py
+│   ├── test_search_employee.py
+│   └── test_logout.py
+│
+├── pages
+│   ├── login_page.py
+│   ├── dashboard_page.py
+│   ├── pim_page.py
+│   └── logout_page.py
+│
+├── test_data
+│   └── test_data.py
+│
+├── utilities
+│   ├── driver_factory.py
+│   ├── config.py
+│   └── logger.py
+│
+├── screenshots
+│
+├── reports
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── .gitignore
