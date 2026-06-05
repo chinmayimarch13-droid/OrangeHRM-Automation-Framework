@@ -20,3 +20,6 @@
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## Authore
+- Chinmayi Gowdaa
